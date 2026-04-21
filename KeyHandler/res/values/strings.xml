@@ -23,5 +23,6 @@
     <string name="cam_power_on_enabled_summary">Enables the Red/Blocked section of the switch to be a power button</string>
     <string name="cam_power_off_enabled_title">Use Cam OFF as wake/sleep</string>
     <string name="cam_power_off_enabled_summary">Enables the unblocked camera section of the switch to be a power button</string>
+    <string name="device_settings_app_name">Device Settings</string>
 
 </resources>
